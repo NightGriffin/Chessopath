@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Images/TileHighlight.png" type="Texture" id=1]
+
+[node name="Highlight" type="Node2D" index="0"]
+
+[node name="Valid" type="Sprite" parent="." index="0"]
+
+texture = ExtResource( 1 )
+centered = false
+region_enabled = true
+region_rect = Rect2( 0, 0, 60, 60 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+[node name="Capture" type="Sprite" parent="." index="1"]
+
+texture = ExtResource( 1 )
+centered = false
+region_enabled = true
+region_rect = Rect2( 60, 0, 60, 60 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+

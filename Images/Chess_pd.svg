@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg19102"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   sodipodi:docname="Chess_pd.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata19108">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs19106">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath19183">
+      <rect
+         style="fill:#000000"
+         id="rect19185"
+         width="45.559322"
+         height="46.915253"
+         x="12.474576"
+         y="9.2203388" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     id="namedview19104"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19102" />
+  <g
+     id="g19173-3"
+     transform="translate(-2.4406773,-3.9322029)"
+     clip-path="none">
+    <circle
+       r="5.6949153"
+       cy="16.542374"
+       cx="33.35593"
+       id="path19134-3"
+       style="fill:#000000" />
+    <ellipse
+       ry="8.9491529"
+       rx="9.7627115"
+       cy="28.20339"
+       cx="33.627117"
+       id="path19136-8"
+       style="fill:#000000" />
+    <path
+       style="fill:#000000"
+       d="M 31.457031 30.236328 A 16.542374 14.644068 0 0 0 14.916016 44.880859 A 16.542374 14.644068 0 0 0 17.068359 52.068359 L 45.859375 52.068359 A 16.542374 14.644068 0 0 0 48 44.880859 A 16.542374 14.644068 0 0 0 31.457031 30.236328 z "
+       transform="translate(2.4406773,3.9322029)"
+       id="path19138-4" />
+  </g>
+</svg>
